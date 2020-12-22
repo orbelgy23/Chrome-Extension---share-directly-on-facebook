@@ -6,7 +6,11 @@ Right-click on the image, and in the window that opens, click "share image to fa
 
 This feature may work on other sites.
 
+
+
+
 You can also share a quote you liked , from Wikipedia for example.
+
 Right-click on the selected text, and in the window that opens, click "share quote to facebook"
 
 
