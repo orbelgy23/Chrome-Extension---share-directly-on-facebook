@@ -9,8 +9,10 @@ This feature may work on other sites.
 
 
 
+
+
 You can also share a quote you liked , from Wikipedia for example.
 
-Right-click on the selected text, and in the window that opens, click "share quote to facebook"
+Right-click on the selected text, and in the window that opens, click "share quote to facebook".
 
 
